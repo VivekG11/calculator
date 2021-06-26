@@ -10,6 +10,7 @@ namespace calculator
             Add();
             Console.WriteLine("Sathyabama University");
             Basic.Def();
+            Console.WriteLine("Performing merge command");
 
         }
         public static void Add()
